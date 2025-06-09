@@ -10,5 +10,5 @@ pip install -r requirements.txt --target ./dist
 cp ./lambda_function.py ./dist
 ```
 
-2. Zip the files in the "dist" file
+2. Zip the files in the "dist" directory
 3. Upload zip file to AWS Lambda
